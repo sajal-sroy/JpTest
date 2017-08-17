@@ -22,7 +22,10 @@ public class TestData {
 		//added by Sajal Roj
 		return "40";
 	}
-
+	public String random(){
+		//added by majrul ansari
+		return "50";
+	}
 
 
 }
