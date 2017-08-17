@@ -11,5 +11,11 @@ public class TestData {
 		//added by majrul ansari
 		return "20";
 	}
+	
+	public String div(){
+		//added by majrul ansari
+		return "30";
+	}
+
 
 }
