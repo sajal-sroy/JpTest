@@ -17,6 +17,12 @@ public class TestData {
 		//added by majrul ansari
 		return "30";
 	}
+	
+	public String mul(){
+		//added by majrul ansari
+		return "40";
+	}
+
 
 
 }
