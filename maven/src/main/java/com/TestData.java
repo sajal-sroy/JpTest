@@ -4,6 +4,7 @@ public class TestData {
 
 	//Added by Sajal1
 	public String add(){
+		//added by majrul ansari
        return "10";
 	}
 
