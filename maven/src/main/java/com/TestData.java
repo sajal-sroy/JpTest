@@ -14,12 +14,12 @@ public class TestData {
 	}
 	
 	public String div(){
-		//added by majrul ansari
+		//added by Sajal Roj
 		return "30";
 	}
 	
 	public String mul(){
-		//added by majrul ansari
+		//added by Sajal Roj
 		return "40";
 	}
 
