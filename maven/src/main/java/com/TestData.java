@@ -2,9 +2,9 @@ package com;
 
 public class TestData {
 
+	//Added by Sajal1
 	public String add(){
-		//added by majrul ansari
-		return "10";
+       return "10";
 	}
 
 	public String sub(){
