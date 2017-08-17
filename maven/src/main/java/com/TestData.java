@@ -6,6 +6,10 @@ public class TestData {
 		//added by majrul ansari
 		return "10";
 	}
-	
-	
+
+	public String sub(){
+		//added by majrul ansari
+		return "20";
+	}
+
 }
